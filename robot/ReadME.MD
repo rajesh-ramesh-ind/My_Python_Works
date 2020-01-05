@@ -25,7 +25,8 @@ R3|5|5|U2DL1R1L
 4. Each movement, if not prefixed with a number say "U", is considered as 1 movement upwards.If the movement is prefixed with a number say "2D", is considered as 2 movements downwards.
 
 ##### Output:
-    Output should be a file [output.txt] containing the coordinates and the list of robots (delimited by :) in that position:
+    Output should be a file [output.txt] containing the coordinates and 
+    the list of robots (delimited by :) in that position:
    | X|Y|Robots |
    |--|-|-------|
    |4|4|R1:R3|
